@@ -1,0 +1,39 @@
+<html>
+    <head>
+        <title>zahra akhavan attar</title>
+    </head>
+    <body>
+        <h1>zahra akhavan attar 40112358001</h1>
+        <h1>first question: </h1>
+        <h1>hello world</h1>
+        <h2>hello world</h2>
+        <h3>hello world</h3>
+        <h4>hello world</h4>
+        <h5>hello world</h5>
+        <h6>hello world</h6>
+
+        <h1>second question: </h1>
+        <p>hello world</p>
+
+        <h1>third question: </h1>
+        <p>my bonnie lies</p>
+        <br>
+        <p>over the oceon.</p>
+
+        <h1>forth question: </h1>
+        <img src="./basu">the image</img>
+
+        <h1>fifth question: </h1>
+        <ul>
+            <li>coffee</li>
+            <li>coffee</li>
+            <li>coffee</li>
+            <li>coffee</li>
+        </ul>
+
+        <h1>seventh question: </h1>
+        <p>این دستور برای پول کردن یک پروژه است یعنی پروژۀ تغییر یافته ای که توسط  یک کاربر در گیت هاب بارگزاری شده را در پزوژۀ اصلی اعمال می کند.</p>
+        <p>این کامند پروژۀ داده شده را همراه با یک مسیج کامیت می کند یعنی آن را از استیج در ریپازتوری ذخیره می کند </p>
+
+    </body>
+</html>
